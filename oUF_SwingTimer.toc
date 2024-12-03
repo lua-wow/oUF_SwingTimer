@@ -1,0 +1,11 @@
+## Interface: 11505
+## Author: Luaerror
+## Version: 0.1.0
+## Title: oUF SwingTimer
+## Notes: Swing timer support for oUF layouts.
+## RequiredDeps: oUF
+
+## X-Maintainer: Luaerror
+## X-Website: https://github.com/lua-wow/oUF_SwingTimer
+
+oUF_SwingTimer.lua
